@@ -6,7 +6,7 @@
 
 3. Após instalar, abrir o VSCode e instalar a extensao " Cobol IntelliSense - Highlight" apenas;
 
-4. Baixar os binários do GNU COBOL para Windows (compilados) em: https://drive.google.com/file/d/1vxzD
+4. Baixar os binários do GNU COBOL para Windows (compilados) em: https://github.com/MarceloMarquesdeLima/Ambiente_Cobol_VSCode.git
 
 5. Criar uma pasta na unidade raiz (geralmente, c:\) - Exemplo: C:\GNUCOBOL;
 
