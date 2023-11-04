@@ -1,0 +1,10 @@
+       IDENTIFICATION DIVISION. 
+       PROGRAM-ID. testecob.
+       DATA DIVISION.
+       WORKING-STORAGE SECTION. 
+       77 WS-NOME PIC x(10).
+       PROCEDURE DIVISION.
+           DISPLAY "DIGITE O NOME".
+           ACCEPT WS-NOME
+           DISPLAY "OLA MUNDO, "WS-NOME
+           STOP RUN.
