@@ -12,12 +12,12 @@
 5. Criar uma pasta na unidade raiz (geralmente, c:\) - Exemplo: C:\GNUCOBOL;
 
 6. Fazer as configuraçoes das variaveis de ambiente em "Variaveis do Sistema":<br>
-   6.1. Criar a variavel COBOL_HOME e apontar para o diretorio principal do GNU COBOL;<br>
-   6.2. Criar as variaveis:<br>
-   6.2.1. COB_BIN_DIR:  apontar para sub-diretorio "bin" do GNU COBOL;<br>
-        <p>&nbsp6.2.2. COB_CONFIG_DIR : apontar para sub-diretorio "config" do GNU COBOL;</p><br>
-        &nbsp6.2.3. COB_COPY_DIR: apontar para sub-diretorio "copy" do GNU COBOL;<br>
-        &nbsp6.2.4. COB_INCLUDE_PATH: apontar para sub-diretorio "lib" do GNU COBOL;
+  6.1. Criar a variavel COBOL_HOME e apontar para o diretorio principal do GNU COBOL;<br>
+  6.2. Criar as variaveis:<br>
+    6.2.1. COB_BIN_DIR:  apontar para sub-diretorio "bin" do GNU COBOL;<br>
+    6.2.2. COB_CONFIG_DIR : apontar para sub-diretorio "config" do GNU COBOL;<br>
+    6.2.3. COB_COPY_DIR: apontar para sub-diretorio "copy" do GNU COBOL;<br>
+    6.2.4. COB_INCLUDE_PATH: apontar para sub-diretorio "lib" do GNU COBOL;
 
 7. Adicionar as variaveis de ambiente de sistema na variável "path" do sistema<br>
     7.1. COBOL_HOME: Para criar no Path %COBOL_HOME%;<br>
